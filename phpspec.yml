@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Limakuchen
+        psr4_prefix: Limakuchen
+        src_path: app
